@@ -1,6 +1,7 @@
 {
   "name": "koriyama-kaitori",
   "version": "0.1.0",
+  "homepage": "https://aztomo560.github.io/koriyama-kaitori",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
