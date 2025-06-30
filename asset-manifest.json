@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/koriyama-kaitori/static/css/main.ad4bbdcc.css",
-    "main.js": "/koriyama-kaitori/static/js/main.9ded3a5f.js",
+    "main.js": "/koriyama-kaitori/static/js/main.204ddc6a.js",
     "static/js/453.e522d0ec.chunk.js": "/koriyama-kaitori/static/js/453.e522d0ec.chunk.js",
     "index.html": "/koriyama-kaitori/index.html",
     "main.ad4bbdcc.css.map": "/koriyama-kaitori/static/css/main.ad4bbdcc.css.map",
-    "main.9ded3a5f.js.map": "/koriyama-kaitori/static/js/main.9ded3a5f.js.map",
+    "main.204ddc6a.js.map": "/koriyama-kaitori/static/js/main.204ddc6a.js.map",
     "453.e522d0ec.chunk.js.map": "/koriyama-kaitori/static/js/453.e522d0ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad4bbdcc.css",
-    "static/js/main.9ded3a5f.js"
+    "static/js/main.204ddc6a.js"
   ]
 }
